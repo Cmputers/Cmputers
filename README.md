@@ -1,19 +1,17 @@
 
 Hi , I'm stealthscripterdev
- I’m currently a scripter and developer and continue getting more expirience.
-I'm stealthscripterdev , I love coding , and I'm learning different fields like programming and coding ,
-fullstack dev , cybersecurity , blockchain technology , cryptography , and lots more ! This is my site I 
-update frequently.
+ I’m  a scripter and developer and continue getting more expirience.
+ I love coding , and I'm learning different fields ! I want to build a personal website to update frequently.
 In my spare time (when I'm not coding) I like to do pentesting , research , or more on my homelab server.
 I host Tor relays , Monero nodes , and more.
-I have a blog , which I try to write start writing , but often too busy. If there's a topic you would like 
-me to write about , please send me a message. I'm always happy to help , and hear suggestions , so feel free to reaout out to me!
+I have a blog , which I try to start writing , but often too busy. If there's a topic you would like 
+me to write about , please send me a message. I'm always happy to help , and hear suggestions , so feel free to reach out out to me!
 I'm also avaialable to hire.
 I'm ready to collaborate on projects , DM with info .
 
 Feel free to explore my GitHub Portfolio 
 to see some of the projects I’ve worked on and contact , if you need help with anything development-related!
-  I’m a developer and scripter and I offer a variety of services while I’m continually growing my expirience
+  I offer a variety of services while I’m continually growing my expirience
   I accept payments via Monero for all services.
 
     For small projects, you can contact me directly to discuss rates.
