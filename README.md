@@ -8,6 +8,7 @@ I have a blog , which I try to start writing , but often too busy. If there's a 
 me to write about , please send me a message. I'm always happy to help , and hear suggestions , so feel free to reach out out to me!
 I'm also avaialable to hire.
 I'm ready to collaborate on projects , DM with info .
+[![My Skills](https://skillicons.dev/icons"visualstudio,py,pycharm,mint,linux,github,debians!"
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Feel free to explore my GitHub Portfolio 
