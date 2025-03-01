@@ -9,7 +9,7 @@ me to write about , please send me a message. I'm always happy to help , and hea
 I'm also avaialable to hire.
 I'm ready to collaborate on projects , DM with info .
 [![My Skills](https://skillicons.dev/icons"visualstudio,py,pycharm,mint,linux,github,debians!"
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,visualstudio,pycharm,mint,github,debian)](https://skillicons.dev)
 
 Feel free to explore my GitHub Portfolio 
 to see some of the projects I’ve worked on and contact , if you need help with anything development-related!
