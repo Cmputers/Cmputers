@@ -9,7 +9,12 @@ me to write about , please send me a message. I'm always happy to help , and hea
 I'm also avaialable to hire.
 I'm ready to collaborate on projects , DM with info .
 Some tech I use :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,visualstudio,pycharm,mint,github,debian)](https://skillicons.dev,discord,git)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,visualstudio,pycharm,mint,github,debian,)](https://skillicons.dev,discord,git)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 Feel free to explore my GitHub Portfolio 
 to see some of the projects I’ve worked on and contact , if you need help with anything development-related!
