@@ -1,5 +1,5 @@
 
-Hi , I'm stealthscripterdev
+Hi , I'm nthcoredev
  I’m  a scripter and developer and continue getting more expirience.
  I love coding , and I'm learning different fields ! I want to build a personal website to update frequently.
 In my spare time (when I'm not coding) I like to do pentesting , research , or more on my homelab server.
@@ -39,7 +39,7 @@ Please give a vouch if you like my projects
 
 Contact Me
 
-Email: hi@stealthsripter.dev
+Email: (buying emmail domain probably)
 
 Matrix:
 
